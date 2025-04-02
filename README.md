@@ -39,4 +39,4 @@ This project contains analysis and debugging workflows for sales data using Pyth
 ## Project Structure
 
 - `notebooks/`: Jupyter notebooks for analysis
-- `data/`: Data files (not tracked in git)
+- `data/`: Data files (also tracked in git as data size is very small)
